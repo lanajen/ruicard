@@ -1,0 +1,51 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.hidden {
+  display: none;
+}
+
+.hackentines-day-card-container {
+  width: 500px;
+  height: 200px;
+  margin: 40px auto;
+  background-color: #E1E1E1;
+  padding: 120px 25px 300px 25px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.swatch {
+  padding: 50px;
+  margin: 10px;
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.code {
+  background: url("../images/codewallpaper.jpg") repeat;
+}
+
+.black-text {
+  color: #000;
+}
+
+.white-background {
+  background: #FFF;
+}
+
+.kittens {
+  background: url("../images/ewok.jpg") no-repeat;
+  height: 400px;
+  margin-top: -50px;
+  margin-left: 105px;
+}
+
+.start-font {
+  font-family: 'Press Start 2P', cursive;
+}
